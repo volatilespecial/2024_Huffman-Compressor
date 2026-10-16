@@ -13,7 +13,7 @@ L2-A / 23000857 / UP8
 int main(){
     int choiceED;
 
-    printf("Huffman Encoding - Decoding 1.0 / Anparasan ANPUKKODY - 2024\n\n");
+    printf("Huffman Encoding - Decoding 1.1 / Anparasan ANPUKKODY - 2026\n\n");
     printf("Enter a valid filename that you wish to encode.\n\
 If you wish to decode a file, you must input a .huff file\n\
 that was generated using this program.\n\
