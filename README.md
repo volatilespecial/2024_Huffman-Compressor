@@ -1,4 +1,4 @@
-Huffman Encoding - Decoding 1.0 - INCOMPLET
+Huffman Encoding - Decoding 1.1
 Anparasan ANPUKKODY - L2A - 23000857 - UP8
 13/12/2024
 
